@@ -9,6 +9,9 @@
   "author": "Hansel Lopez <lopezhansel@gmail.com> (http://www.lopezhansel.com/)",
   "license": "ISC",
   "dependencies": {
+    "@types/cheerio": "0.17.31",
+    "@types/q": "0.0.32",
+    "@types/request-promise": "4.1.33",
     "cheerio": "0.22.0",
     "q": "1.4.1",
     "request": "2.80.0",
