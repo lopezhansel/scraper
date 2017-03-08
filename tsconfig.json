@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "sourceMap": true,
+        "declaration": true,
+        "outDir": "./build",
+        "watch": true
+    },
+    "exclude": [
+        "./build",
+        "./config",
+        "node_modules"
+    ]
+}
